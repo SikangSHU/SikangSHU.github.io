@@ -28,8 +28,8 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Shanghai, China"
   employer         : "East China Normal University"
-  uri              : # URL
-  email            : "none@example.org" 
+  uri              : https://SikangSHU.github.io
+  email            : "syxu@stu.ecnu.edu.cn" 
 
   # Academic websites
   academia         : # URL
